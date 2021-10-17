@@ -5,7 +5,8 @@ dtmoney is the first web application with ReactJS made during the Ignite course 
 This is an app for finance control
 
 ## Screenshots 
-
+ <img src="https://github.com/Leonardo-Burtet/dtmoney/blob/main/screenshot01.jpg" />
+  <img src="https://github.com/Leonardo-Burtet/dtmoney/blob/main/screenshot02.jpg" />
 
 ## Features
 <li>Table with name, amount, category and date.</li>
